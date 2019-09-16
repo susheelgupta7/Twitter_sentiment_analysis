@@ -1,7 +1,7 @@
 # Twitter_sentiment_analysis
 Sentiment analysis on tweets using tweepy api in python
 ## About
-Twitter sentiment analysis gives the polarity based on the input provided by the user.Tweepy act as the tweet collector from tweetor server and also on the text blob for sentiment polarity calculation.
+Twitter sentiment analysis gives the polarity based on the input provided by the user.Tweepy act as the tweet collector from twitter server and also on the text blob for sentiment polarity calculation.
 ## Requirement:
 Python,tweepy,textblob
 ### Features:-
